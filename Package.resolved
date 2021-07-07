@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "libwebp",
-        "repositoryURL": "https://github.com/shimastripe/libwebp-Xcode.git",
+        "repositoryURL": "https://github.com/SDWebImage/libwebp-Xcode.git",
         "state": {
-          "branch": null,
-          "revision": "31bff1fd566b2b5561d6a159c6d98db2b1a0139c",
-          "version": "1.4.0"
+          "branch": "platform_version",
+          "revision": "e5b21b0330db1ad3822b0e50ac75b62286c0fafd",
+          "version": null
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
         "state": {
           "branch": null,
-          "revision": "ae3d0a7703eb883a876864f17a4591158199e9f2",
-          "version": "5.9.0"
+          "revision": "665d02280f5c04515e76feb78078dd89da091f3e",
+          "version": "5.9.2"
         }
       }
     ]
